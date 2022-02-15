@@ -3,9 +3,9 @@
 ## Índice
 
 * [1. API Luizalabs](#1-desafio-api-luizalabs)
-* [2. Como utilizar](#3-como-utilizar)
-* [3. Endpoints](#4-endpoints)
-* [4. Tecnologias usadas](#5-tecnologias-usadas)
+* [2. Como utilizar](#2-como-utilizar)
+* [3. Endpoints](#3-endpoints)
+* [4. Tecnologias usadas](#4-tecnologias-usadas)
 
 ***
 
