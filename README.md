@@ -16,7 +16,7 @@ Este projeto consiste no desenvolvimento de uma API de serviços com estrutura M
 ## 2. Como utilizar
 
 A aplicação pode ser usada localmente, é necessário fazer a instalação de todas as dependências citadas no item [4. Tecnologias usadas](#4-tecnologias-usadas).
-Após todas as dependências instaladas, certifique-se de configurar os dados do seu MySql no arquivo config.json no caminho /api/config/config.json, com os dados da tabela, porta e usuário a ser usado em seu banco de dados.
+Após todas as dependências instaladas, certifique-se de configurar os dados do seu MySql no arquivo config.json no caminho /api/config/config.json, com os dados da sua conexão, porta e usuário a ser usado em seu banco de dados.
 
 Com as dependências instaladas e o banco de dados configurados, rodar os seguintes comandos:
 
