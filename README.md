@@ -2,7 +2,7 @@
 
 ## Índice
 
-* [1. Burger API Luizalabs](#1-desafio-api-luizalabs)
+* [1. API Luizalabs](#1-desafio-api-luizalabs)
 * [2. Como utilizar](#3-como-utilizar)
 * [3. Endpoints](#4-endpoints)
 * [4. Tecnologias usadas](#5-tecnologias-usadas)
