@@ -40,7 +40,7 @@ Pronto, sua aplicação estará rodando.
 ### `/login`
 #### Aberta a todos :
 * `POST /login`
-   Login padrão mocado {"user": "Jhon", "password": "admin"}
+   Login padrão mocado {"user": "root", "password": "admin"}
    
 ### `/logout`
 * `POST /logout`
