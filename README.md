@@ -33,6 +33,8 @@ E por fim:
 
 Pronto, sua aplicação estará rodando.
 
+ATENÇÃO: A duração da autenticação é de 6 minutos, após este tempo é necessário efetuar nova autenticação.
+
 ## 3. Endpoints
 
 ## Aberta a todos :
@@ -56,18 +58,18 @@ Pronto, sua aplicação estará rodando.
 * `PUT /clientes/:id`
 * `DELETE /clientes/:id`
 
-### `clientes/:id/favoritos`
+### `favoritos`
 
-* `GET /clientes/:id/favoritos`
+* `GET /favoritos/:clienteId`
    Lista todos os produtos da lista de um cliente
    
-* `GET /clientes/:id/favoritos/:idProduct`
+* `GET /favoritos/:clienteId/:productId`
    Lista todos os dados de produto específico na lista do cliente
    
-* `POST /clientes/:id/favoritos/:idProduct`
+* `POST /favoritos/:clienteId/:productId`
    Adiciona o produto na lista do cliente se existente e se não duplicado
    
-* `DELETE /clientes/:id/favoritos/:idProduct`
+* `DELETE /favoritos/:clienteId/:productId`
    Deleta produto da lista de um cliente
 
 ## 4. Tecnologias usadas
